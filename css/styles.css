@@ -10138,7 +10138,12 @@ p.lead {
 .dev-icons {
   font-size: 1.8rem;
 }
-
+.icon {
+    background: url('ROS.png');
+    height: 20px;
+    width: 20px;
+    display: block;
+}
 section.resume-section {
   display: flex;
   align-items: center;
